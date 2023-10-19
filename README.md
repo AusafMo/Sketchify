@@ -1,6 +1,6 @@
 # Sketchify
-The Model allows the conversion of a user-provided image into a sketch by manipulating the image’s
-attributes using Computer Vision or the CV2 library of python in association with matplotlib and
+The app allows the conversion of a user-provided image into a sketch by manipulating the image’s
+style using Computer Vision or the CV2 library of python, matplotlib and
 seaborn.
 
 
